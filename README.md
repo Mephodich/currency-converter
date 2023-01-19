@@ -1,1 +1,1 @@
-# currency-converter
+This is a currency converter site. It has a login and password system. There are 3 roles: manager, administrator and simple user. The user is able to register, leave a request for adding currency pairs, use ready-made currency pairs, and calculate the currency at a given rate. The manager can: consider requests for adding/removing currency pairs from users. The administrator can delete users and do all the same functions as the manager.
